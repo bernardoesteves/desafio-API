@@ -1,0 +1,7 @@
+**.classpath
+**.gradle/
+**.project
+**desafio.log
+**.settings/
+**/bin/
+**/build/
